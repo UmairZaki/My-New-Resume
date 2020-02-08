@@ -108,7 +108,7 @@ const Generic = (props) => (
         <div className="content">
             <div className="inner">
             <h1>Fiverr</h1>
-            <p>to see my Fiverr Profile <a href="https://www.upwork.com/freelancers/~0141d6a9695a2de52a" target = "_blank"> Click Here</a></p>
+            <p>to see my Fiverr Profile <a href="https://www.fiverr.com/users/umairjamstackai/seller_dashboard" target = "_blank"> Click Here</a></p>
             </div>
         </div>
     </section>
