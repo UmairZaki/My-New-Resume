@@ -66,9 +66,10 @@ class HomeIndex extends React.Component {
                     </div>
                     <div className="content">
                         <div className="inner">
-                            <h2>Microsoft Technology Associate</h2>
-                            <h3>Introduction to programming using Python</h3>
-                            <h4>I had passed the Microsoft Technology Associate Certificate (MTA-98-381) Introduction to programming using Python with 89% marks on August 23, 2019.</h4>
+                            <h2>Coursera Certificate</h2>
+                            <h3>AI For Everyone deeplearning.ai</h3>
+                            <h4>I had passed the Corsera Certificate (deeplearning.ai) AI For Everyone with 93% marks on July 12, 2019.
+Verify at coursera.org/verify/YHQEDEGRL7QH Coursera has confirmed the identity of this individual and their participation in the course.</h4>
                         </div>
                     </div>
                 </section>
