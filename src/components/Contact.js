@@ -30,7 +30,7 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-envelope"></span>
                         <h3>Email</h3>
-                        <a href="https://mail.google.com/mail/u/0/" target = "_blank">umairzakicnbc@gmail.com</a>
+                        <span>umairzakicnbc@gmail.com</span>
                     </div>
                 </section>
                 <section>
