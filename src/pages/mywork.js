@@ -3,6 +3,9 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import BannerLanding from '../components/BannerLanding'
 
+import pic08 from '../assets/images/pic41.png'
+import pic09 from '../assets/images/pic42.png'
+
 const Generic = (props) => (
     <Layout>
         <Helmet>
@@ -71,6 +74,47 @@ const Generic = (props) => (
                 </div>
             </section>
         </div>
+        <div id="main">
+
+            <section id="two" className="spotlights2">
+                <div className="inner">
+                <header className="major">
+                    <h1>Freelance</h1>
+                </header>
+                </div>
+                <section>
+                    <div className="image">
+                        <img src={pic08} alt="" />
+                    </div>
+                    <div className="content">
+                        <div className="inner">
+                            <h1>Upwork</h1>
+                            <p>to see my Upwork Profile <a href="https://www.upwork.com/freelancers/~0141d6a9695a2de52a" target = "_blank"> Click Here</a></p>
+                        </div>
+                    </div>
+                </section>
+            </section>
+                    
+                </div>
+                <div id="main">
+
+<section id="two" className="spotlights2">
+    <div >
+    </div>
+    <section>
+        <div className="image">
+            <img src={pic09} alt="" />
+        </div>
+        <div className="content">
+            <div className="inner">
+            <h1>Fiverr</h1>
+            <p>to see my Fiverr Profile <a href="https://www.upwork.com/freelancers/~0141d6a9695a2de52a" target = "_blank"> Click Here</a></p>
+            </div>
+        </div>
+    </section>
+</section>
+        
+    </div>
 
     </Layout>
 )

@@ -4,9 +4,6 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import Banner from '../components/Banner'
 
-
-import pic02 from '../assets/images/pic02.jpg'
-import pic03 from '../assets/images/pic03.jpg'
 import pic08 from '../assets/images/pic02.jpg'
 import pic09 from '../assets/images/pic03.jpg'
 
